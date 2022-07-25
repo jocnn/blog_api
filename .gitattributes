@@ -28,5 +28,5 @@
 # ``shelve``, ``marshal``, ``anydbm``, & ``bsddb``
 # (among others).
 
-static/** linguist-vendored
+#static/** linguist-vendored
 staticfiles/** linguist-generated
